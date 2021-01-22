@@ -1,5 +1,5 @@
 # Demo link of project
 
-https://hira-s-blog.web.app/
+https://hira-s-blog.web.app/1
 
-http://localhost:3000/post/1
+
