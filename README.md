@@ -1,5 +1,5 @@
 # Demo link of project
 
-https://hira-s-blog.web.app/1
+https://hira-s-blog.web.app/
 
 
